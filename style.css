@@ -46,9 +46,9 @@ button {
   /* белый фон */
   background-color: white;
   /* сложно — чтобы кнопка была по центру экрана */
-   position: static;
+   position: absolute;
   transform: translate(-50%, -50%);
-  top: 50%;
+  top: 80%;
   left: 50%;
   /* уберем подсветку кнопки при клике */
   outline: none;
