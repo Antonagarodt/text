@@ -46,7 +46,7 @@ button {
   /* белый фон */
   background-color: white;
   /* сложно — чтобы кнопка была по центру экрана */
-  text-align: center;
+  position: static;
   /* уберем подсветку кнопки при клике */
   outline: none;
   /* приятно — плавные переходы при наведении */
